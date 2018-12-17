@@ -1,0 +1,17 @@
+{
+  "name": "test-ghql",
+  "version": "1.0.0",
+  "description": "Simple example GraphQL with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "dlarchikov <dl@dao.casino>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11"
+  }
+}
