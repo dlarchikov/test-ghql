@@ -1,13 +1,7 @@
 ## Example GraphQL with NodeJS
 
 ### Install
-`npm init`
-
-`npm install express --save`
-
-`npm install graphql express-graphql --save`
-
-`npm install lodash --save`
+`npm install`
 
 ### Run
 
